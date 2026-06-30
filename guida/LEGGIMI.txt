@@ -1,0 +1,34 @@
+GUIDA PAGHEPRO — Come usare il software (passo passo)
+======================================================
+
+COME APRIRLA
+------------
+Fai doppio click sul file  index.html
+Si apre nel browser (Chrome, Safari, Edge…). Non serve internet.
+
+COME USARLA
+-----------
+• Pulsante "Riproduci"  → la guida va avanti da sola e SPIEGA CON LA VOCE.
+• "Avanti ›" / "‹ Indietro" → ti muovi a mano, una schermata alla volta.
+• Tasti freccia ← →  → stessa cosa dalla tastiera.
+• Barra spaziatrice → avvia / mette in pausa la riproduzione.
+• Menu a sinistra → salti subito alla sezione che vuoi.
+• "Voce narrante" (in alto) → la spunti/togli se NON vuoi l'audio.
+
+COSA CONTIENE (16 schede)
+-------------------------
+Benvenuto · Come muoversi · Aziende clienti · Dipendenti · Cedolini ·
+Adempimenti · F24 · Scadenzario · Contabilità · Bilancio ·
+Pagamenti clienti · Firma digitale · Documenti · Impostazioni ·
+Utenti e permessi · Riepilogo finale.
+
+PER CONDIVIDERLA
+----------------
+Manda l'INTERA cartella "guida-paghepro" (con dentro index.html e la
+cartella img). Funziona su qualsiasi computer, anche senza il software.
+
+NOTE
+----
+• La voce usa quella del browser/sistema: la qualità dipende dal computer.
+  Su Mac e Windows recenti c'è una voce italiana già pronta.
+• Le immagini sono le schermate reali del software, nella cartella "img".
